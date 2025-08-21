@@ -1,2 +1,2 @@
 wait(1)
-loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/3cd97c44ff1a40079ba8e77b1c8f9b2f"))()
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/64dcb0b4acbb4e3b95297d0341ca2be8"))()
